@@ -133,7 +133,7 @@ print(classLabels)
 print(f'Number of Classes: {len(classLabels)}')
 ```
 
-![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/4.png)
+![image]()
 
 ```python
 
@@ -141,7 +141,7 @@ print(f'Number of Classes: {len(classLabels)}')
 img = cv2.imread('thiyagu.jpg')
 plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))  # Display original image
 ```
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/4.png)
 
 
 ```python
