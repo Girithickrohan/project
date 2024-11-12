@@ -133,7 +133,7 @@ print(classLabels)
 print(f'Number of Classes: {len(classLabels)}')
 ```
 
-![image]()
+![image](https://github.com/user-attachments/assets/8cdceb8b-a67a-4495-887c-8c216f7e42f4)
 
 ```python
 
