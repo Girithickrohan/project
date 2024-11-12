@@ -35,7 +35,7 @@ plt.imshow(image_rgb)
 plt.title('Original Image')
 plt.axis('off')
 ```
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/1.png)
 
 ```python
 # Step 3: Create an ROI mask
@@ -53,7 +53,7 @@ plt.axis('off')
 # Show both images side by side
 plt.show()
 ```
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/2.png)
 
 ## II)Perform handwritting detection in an image
 ### Step1:
@@ -90,9 +90,7 @@ def detect_handwriting(image_path):
 image_path = 'handwriting.jpg'
 detect_handwriting(image_path)
 ```
-![image]()
-
-
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/3.png)
 
 ## III)Perform object detection with label in an image
 ### Step1:
@@ -135,7 +133,7 @@ print(classLabels)
 print(f'Number of Classes: {len(classLabels)}')
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/4.png)
 
 ```python
 
@@ -178,4 +176,4 @@ plt.axis('off')
 plt.title('Detected Objects')
 plt.show()
 ```
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/5.png)
