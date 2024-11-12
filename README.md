@@ -177,3 +177,6 @@ plt.title('Detected Objects')
 plt.show()
 ```
 ![image](https://raw.githubusercontent.com/Girithickrohan/project/refs/heads/main/5.png)
+
+## Result:
+Thus, The python program using OpenCV to do the image manipulations is executed successfully.
